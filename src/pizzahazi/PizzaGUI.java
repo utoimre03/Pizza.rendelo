@@ -335,7 +335,7 @@ public class PizzaGUI extends javax.swing.JFrame {
     }//GEN-LAST:event_jRadioButton3ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Tesztverzió!");
+        JOptionPane.showMessageDialog(rootPane, "Tesztverzió!", "FIGYELMEZTETÉS", 2);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
